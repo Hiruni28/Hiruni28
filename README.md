@@ -37,7 +37,7 @@ HTML, CSS, JavaScript, PHP, MySQL, Java, OOP Concepts
 ## 🚀 What I’m Working On
 
 * Developing practical PM skills by working on projects that involve planning, scheduling, documentation, and team coordination.
-* Applying Agile & Scrum concepts while using tools like Jira, MS Project, and Trello.
+* Applying Agile & Scrum concepts while using tools like Jira and MS Project.
 * Enhancing workflow efficiency through improved task organization and issue tracking.
 
 ---
