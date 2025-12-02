@@ -2,7 +2,7 @@
 
 **Software Engineering Undergraduate | Aspiring Project Manager | Agile & SDLC Enthusiast**
 
-I’m passionate about leading teams, organizing tasks, and delivering projects on time using Agile and modern PM tools.
+I’m passionate about Project planning and scheduling, leading teams, tracking tasks, and delivering projects on time using Agile and modern PM tools.
 With experience managing projects across mobile, web, and system development, I focus on **clarity, collaboration, and continuous improvement**.
 
 ---
