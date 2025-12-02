@@ -24,7 +24,7 @@ Each repository includes documentation, code, and insights into my project-manag
 ## 🧰 Skills & Tools
 
 **Project Management:**
-Agile, Scrum, Kanban, SDLC, SRS, WBS, Risk Management, Gantt Charts, Reporting, Team Coordination, Project Planning and Scheduling
+Agile, Scrum, Kanban, SDLC, SRS, WBS, Risk Management, Gantt Charts, Reporting, Team Coordination, Project Planning and Scheduling, Time Management
 
 **Tools & Software:**
 Jira, MS Project, Microsoft Teams, Slack, Zoom, Google Workspace, MS Office Suit, GitHub Projects
