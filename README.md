@@ -11,9 +11,9 @@ With experience managing projects across mobile, web, and system development, I 
 
 Here are some of the academic and team projects I managed:
 
-*  MediQueue Smart Hospital Queue Management and Decision Support System — 
-*  Bank Customer Churn Prediction System
-*  Ocean View Resort Hotel System
+*  MediQueue Smart Hospital Queue Management and Decision Support System — Coordinated development of a smart healthcare system with priority-based queue management and AI-assisted waiting-time prediction.
+*  Bank Customer Churn Prediction System — Coordinated project planning and development of a machine-learning solution for predicting customer churn.
+*  Ocean View Resort Hotel System — Coordinated development of a hotel management system covering reservations, customer management, and operational workflows.
 *  MediCore Hospital Management System — Led a 7-member team using Agile practices.
 *  GadgetHub E-Commerce Platform — Coordinated a team of 5 and tracked progress using Gantt charts.
 *  FitZone Fitness Center Web App — Planned sprints and reduced development time by 2 weeks.
